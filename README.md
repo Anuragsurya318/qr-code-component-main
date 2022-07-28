@@ -5,5 +5,5 @@ There's a website called frontendmentor.io/  . Its a very good website to practi
 ***
 
 # Built with
-* HTML
-* CSS
+- HTML
+- CSS
