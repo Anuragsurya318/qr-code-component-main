@@ -4,6 +4,6 @@ There's a website called frontendmentor.io/  . Its a very good website to practi
 ![Capture](https://user-images.githubusercontent.com/91601354/181593342-13398fa4-ad55-4d6c-a867-6563fe6fac1a.PNG)
 ***
 
-#Built with
-*HTML
-*CSS
+# Built with
+* HTML
+* CSS
